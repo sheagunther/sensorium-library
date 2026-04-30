@@ -1,0 +1,1434 @@
+{
+  "version": 2,
+  "updated": "2026-04-30",
+  "session": "30.1537",
+  "images": [
+    {
+      "file": "0-Image-depicts-Balance-Life-Balance-something-we-all-need-to-work-on.-1.webp",
+      "tags": [
+        "balance",
+        "human"
+      ],
+      "description": "Balance / life balance concept image",
+      "presets": [
+        "~camping",
+        "~tower",
+        "~gthang",
+        "~autumn"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "0011511101.jpg",
+      "tags": [
+        "chaos",
+        "machine",
+        "art",
+        "balance",
+        "fwwc"
+      ],
+      "description": "Genius workspace mid-thought \u2014 chalkboard equations, organic paper chaos. B&W strips distraction, leaves structure and chaos coexisting.",
+      "presets": [],
+      "channel_load": "Productive chaos. Physical residue of a mind moving faster than filing."
+    },
+    {
+      "file": "0x0.webp",
+      "tags": [
+        "biology",
+        "machine",
+        "human",
+        "nature"
+      ],
+      "description": "Scientist leaned into microscope with whole body. Lab alive with others. Blue gloves, white coats, glassware. The posture of discovery.",
+      "presets": [],
+      "channel_load": "Visualized scientific observation. Commitment to seeing what's invisible."
+    },
+    {
+      "file": "1000_F_89739808_ICYXEx6qedTSoVijuSboQUhiICs4U28c.jpg",
+      "tags": [
+        "human",
+        "nature",
+        "balance",
+        "fwwc"
+      ],
+      "description": "Two people driving convertible into sunset above clouds. Arms up. Not arriving \u2014 going. Freedom as physical sensation.",
+      "presets": [],
+      "channel_load": "Forward motion with trust. Joy of trajectory over destination."
+    },
+    {
+      "file": "11.16.22_066-scaled.webp",
+      "tags": [
+        "machine",
+        "biology",
+        "balance"
+      ],
+      "description": "Empty chemistry lab, clean and waiting. Oak benches, glass cabinets. The space between experiments.",
+      "presets": [],
+      "channel_load": "Potential energy. The moment before work begins."
+    },
+    {
+      "file": "1440_cell_explainer_feat.jpeg",
+      "tags": [
+        "biology"
+      ],
+      "description": "Cell biology explainer image",
+      "presets": [
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "200908311112494776.jpeg",
+      "tags": [
+        "graph",
+        "pattern",
+        "chaos",
+        "fractal"
+      ],
+      "description": "Dense lattice graph \u2014 diamond-shaped, multi-colored edges tangling across layers. Complexity too ordered for dismissal.",
+      "presets": [],
+      "channel_load": "Structured complexity. Relationships too dense for intuition."
+    },
+    {
+      "file": "240_F_297450890_dvS9gNGoqPJcwgnM0XufLFq7PU7mD1cg (1).jpg",
+      "tags": [
+        "nature",
+        "fractal",
+        "pattern",
+        "biology",
+        "balance"
+      ],
+      "description": "DUPLICATE of 240_F_297450890...jpg (same image, (1) suffix)",
+      "presets": [],
+      "channel_load": "Duplicate \u2014 see original"
+    },
+    {
+      "file": "240_F_297450890_dvS9gNGoqPJcwgnM0XufLFq7PU7mD1cg.jpg",
+      "tags": [
+        "nature",
+        "fractal",
+        "pattern",
+        "biology",
+        "balance"
+      ],
+      "description": "Fibonacci succulent spiraling green to gold. Self-similarity at every scale. Nature doing math.",
+      "presets": [],
+      "channel_load": "Recursive self-similarity. The derivative-upon-derivative spiral."
+    },
+    {
+      "file": "240_F_554122879_bGaCCrt7NbGJoZHb9iP4LvEgBDcTA7OG.jpg",
+      "tags": [
+        "space",
+        "fractal",
+        "pattern",
+        "chaos"
+      ],
+      "description": "Galaxy spiraling into center, gold and teal. Arms trailing \u2014 the record of where it's been. Shannon's Mouse: arms ARE the memory.",
+      "presets": [],
+      "channel_load": "Temporal memory encoded in structure."
+    },
+    {
+      "file": "375_image.jpeg",
+      "tags": [
+        "graph",
+        "pattern",
+        "fractal",
+        "art"
+      ],
+      "description": "Discrete optimization polytopes orbiting text. Each solid shows interior wireframe visible only once boundary defined.",
+      "presets": [],
+      "channel_load": "Progressive constraint revelation."
+    },
+    {
+      "file": "42 graph.jpg",
+      "tags": [
+        "graph",
+        "pattern"
+      ],
+      "description": "Graph visualization \u2014 likely mathematical, the number 42",
+      "presets": [
+        "~discovery",
+        "~newhouse"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "4life2.png",
+      "tags": [
+        "pattern",
+        "chaos",
+        "graph",
+        "fwwc"
+      ],
+      "description": "Conway's Game of Life \u2014 six configurations walking trajectories: Stable, Death, Repeat. Same rules, different fates.",
+      "presets": [],
+      "channel_load": "Trajectory fate. The stress test in visual form."
+    },
+    {
+      "file": "5n3jo8hzo7161.jpeg",
+      "tags": [
+        "biology",
+        "pattern",
+        "chaos",
+        "art",
+        "fractal",
+        "fwwc"
+      ],
+      "description": "Cell interior at molecular resolution. Thousands of molecules doing independent jobs with no coordinator. Composition through precision.",
+      "presets": [],
+      "channel_load": "Drive 6 (Mesh) made visible. The cell as methodology metaphor."
+    },
+    {
+      "file": "5n3jo8hzo7161.jpg",
+      "tags": [
+        "biology",
+        "pattern",
+        "chaos",
+        "art",
+        "fractal",
+        "fwwc"
+      ],
+      "description": "DUPLICATE of 5n3jo8hzo7161.jpeg (same image, different ext)",
+      "presets": [],
+      "channel_load": "Duplicate \u2014 see original"
+    },
+    {
+      "file": "7Sqvs.jpg",
+      "tags": [
+        "pattern",
+        "music",
+        "graph",
+        "chaos"
+      ],
+      "description": "Density gradient of vertical lines \u2014 sparse white to pure black. Threshold in middle where individual lines collapse into noise.",
+      "presets": [],
+      "channel_load": "SNR transition. Threshold between readable and noise."
+    },
+    {
+      "file": "800px-mandel_zoom_08_satellite_antennawolfgangbeyer 2.jpg",
+      "tags": [
+        "fractal"
+      ],
+      "description": "Mandelbrot set zoom \u2014 satellite antenna region, Wolfgang Beyer",
+      "presets": [
+        "~newhouse",
+        "~discovery",
+        "~grove"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "800px-mandel_zoom_08_satellite_antennawolfgangbeyer.jpg",
+      "tags": [
+        "fractal"
+      ],
+      "description": "Mandelbrot set zoom \u2014 satellite antenna region, Wolfgang Beyer (original)",
+      "presets": [
+        "~newhouse",
+        "~discovery",
+        "~grove"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "9Dbeh.jpg",
+      "tags": [
+        "pattern",
+        "music",
+        "graph",
+        "chaos"
+      ],
+      "description": "Lines growing upward. Figure-ground inversion of 7Sqvs. Same information, opposite rendering, different experience.",
+      "presets": [],
+      "channel_load": "Figure-ground inversion. Same data, different structure."
+    },
+    {
+      "file": "AAAAQTMyo2nn_yyUb0VMVHRGmrFNpOLoRuB_VkZJ1yxYReno5EsGE0CoIQiLQC57tvKf417IeWRn882GYdn86RmgaqgR6oDf7YeWvevyioaZZH1qMG-boYoH_xn2bFbPDkB7V1RbABP6pWXPcXngnwrtNFnzb7k.jpg",
+      "tags": [
+        "music",
+        "human",
+        "chaos",
+        "fwwc"
+      ],
+      "description": "Festival performer mid-leap, drumsticks raised, facing ocean of humanity. One person commanding hundreds of thousands.",
+      "presets": [],
+      "channel_load": "Attention architecture at maximum scale."
+    },
+    {
+      "file": "AdobeStock_200283180-scaled.jpeg",
+      "tags": [
+        "human",
+        "balance",
+        "fwwc",
+        "nature"
+      ],
+      "description": "Puppy peeking from mustard knitted blanket. Eyes in highest-attention zone. Knitting: zero derivative, accumulated warmth.",
+      "presets": [],
+      "channel_load": "The stopping criterion. Another pass would add noise."
+    },
+    {
+      "file": "Adobe_Stock_517703715_1920x1080_edda01802e.jpg",
+      "tags": [
+        "human",
+        "balance",
+        "nature",
+        "fwwc"
+      ],
+      "description": "Older couple embracing outdoors, both laughing, autumn park. Grey hair, unplanned matching blue tones. Joy compounded.",
+      "presets": [],
+      "channel_load": "Accumulated time. Jamie's Threshold from the far side."
+    },
+    {
+      "file": "Assistants_and_George_Frederic_Watts_-_Chaos_-_Google_Art_Project.jpg",
+      "tags": [
+        "chaos",
+        "art"
+      ],
+      "description": "George Frederic Watts \u2014 'Chaos' painting from Google Art Project",
+      "presets": [
+        "~hammer",
+        "~grove"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "C6IYTLFXR5HRPLB65GC3ZMS4QM.avif",
+      "tags": [
+        "music",
+        "human",
+        "chaos",
+        "fwwc",
+        "art"
+      ],
+      "description": "Woodstock '99 aerial. Psychedelic stage, hundreds of thousands self-organizing. Density gradients: dense at attractor, sparse at edges.",
+      "presets": [],
+      "channel_load": "The mesh at crowd scale. Self-organization through shared signal."
+    },
+    {
+      "file": "D6IX3y6W4AA5Tcy-e1568650082122.jpg",
+      "tags": [
+        "sport",
+        "human",
+        "fwwc",
+        "chaos"
+      ],
+      "description": "Ultimate frisbee \u2014 player airborne, horizontal, face screaming commitment. Full layout.",
+      "presets": [],
+      "channel_load": "Full commitment. The gate as commitment threshold."
+    },
+    {
+      "file": "DM-Logo.png",
+      "tags": [
+        "meta"
+      ],
+      "description": "DM Logo \u2014 possibly Dungeon Master or project logo",
+      "presets": [],
+      "channel_load": ""
+    },
+    {
+      "file": "Electron-Microscope-image-of-a-cell.jpeg",
+      "tags": [
+        "biology"
+      ],
+      "description": "Electron microscope image of a cell \u2014 high detail microstructure",
+      "presets": [
+        "~discovery",
+        "~grove"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "FeatureArt_loek_van_der_Klis_Umerus.webp",
+      "tags": [
+        "art"
+      ],
+      "description": "Feature art by Loek van der Klis \u2014 Umerus",
+      "presets": [
+        "~grove"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "Fig1C-MapTypes.gif",
+      "tags": [
+        "graph",
+        "pattern"
+      ],
+      "description": "Map types figure \u2014 mathematical/scientific visualization",
+      "presets": [
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "FoJtO.jpg",
+      "tags": [
+        "chaos",
+        "pattern",
+        "graph",
+        "meta"
+      ],
+      "description": "Turtle Graphics chaos game computation. Homegrown Python script. Methodology DNA.",
+      "presets": [],
+      "channel_load": "The Shuttle's lateral-input origin story. Computed emergence."
+    },
+    {
+      "file": "Fzbv1.jpg",
+      "tags": [
+        "chaos",
+        "pattern",
+        "graph",
+        "meta"
+      ],
+      "description": "Chaos game variant \u2014 signal compressed to edges, vast dark center. Structure clings to borders.",
+      "presets": [],
+      "channel_load": "Edge-as-attractor. Signal at the margins."
+    },
+    {
+      "file": "Game3.jpg",
+      "tags": [
+        "pattern"
+      ],
+      "description": "Game image \u2014 possibly chaos game or Game of Life output",
+      "presets": [
+        "~newhouse",
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "GettyImages-1443082896-f704c0aca1aa4edca9f56417e51d0423.jpg",
+      "tags": [
+        "human",
+        "balance",
+        "nature"
+      ],
+      "description": "Mother and newborn sleeping cheek-to-cheek on white. Her arm curved like a parenthesis.",
+      "presets": [],
+      "channel_load": "Sensorium origin channel. Safety so complete both can close their eyes."
+    },
+    {
+      "file": "Gospers_glider_gun.gif",
+      "tags": [
+        "pattern"
+      ],
+      "description": "Gosper's Glider Gun \u2014 Conway's Game of Life emergent pattern",
+      "presets": [
+        "~discovery",
+        "~newhouse"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "Graph_Bounds_2880x1620_Lede-scaled.jpeg",
+      "tags": [
+        "graph"
+      ],
+      "description": "Graph bounds visualization \u2014 mathematical",
+      "presets": [
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "Gutenberg.webp",
+      "tags": [
+        "machine",
+        "art"
+      ],
+      "description": "Gutenberg printing press \u2014 historical technology",
+      "presets": [
+        "~hammer",
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "Hubble_ultra_deep_field_high_rez_edit1.jpg",
+      "tags": [
+        "space"
+      ],
+      "description": "Hubble Ultra Deep Field \u2014 thousands of galaxies, deep space",
+      "presets": [
+        "~grove",
+        "~discovery",
+        "~hammer"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "JanFeb19carousel_0002_game-768x346.jpg",
+      "tags": [
+        "pattern"
+      ],
+      "description": "Game visualization \u2014 smaller version",
+      "presets": [
+        "~newhouse"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "JanFeb19carousel_0002_game.jpg",
+      "tags": [
+        "pattern"
+      ],
+      "description": "Game visualization \u2014 full size",
+      "presets": [
+        "~newhouse"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "JettaMkII.jpeg",
+      "tags": [
+        "meta",
+        "machine"
+      ],
+      "description": "VW Jetta Mk II \u2014 THE Jetta. The tan one with the holes in the floor.",
+      "presets": [
+        "~jetta"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "LcP2u.jpg",
+      "tags": [
+        "chaos",
+        "pattern",
+        "graph",
+        "fractal",
+        "meta"
+      ],
+      "description": "Two-dimensional chaos game \u2014 Sierpinski-like ghost structure in left side. Atlas entry 5.",
+      "presets": [],
+      "channel_load": "The chaos game atlas IS the Preset Library in visual form."
+    },
+    {
+      "file": "Mandelbrot_set_10000px.png",
+      "tags": [
+        "fractal"
+      ],
+      "description": "Mandelbrot set \u2014 10000px high resolution full set",
+      "presets": [
+        "~newhouse",
+        "~discovery",
+        "~grove"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "NNfCm8LqwFFsu6JqUutkoZ.jpg",
+      "tags": [
+        "pattern",
+        "chaos",
+        "art",
+        "fractal",
+        "space"
+      ],
+      "description": "Pendulum harmonograph \u2014 continuous path looping wide at outer arcs, knotting tight at center. Bright center is attractor basin.",
+      "presets": [],
+      "channel_load": "Convergence trajectory. DDE process visualized."
+    },
+    {
+      "file": "NotebookkeptRaf00Rafi_0066.webp",
+      "tags": [
+        "art"
+      ],
+      "description": "Historical notebook page \u2014 Raphael or similar artist's notes",
+      "presets": [
+        "~discovery",
+        "~hammer"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "Person+listening+to+music.webp",
+      "tags": [
+        "music",
+        "human"
+      ],
+      "description": "Person listening to music",
+      "presets": [
+        "~tower",
+        "~fair"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "Picture-223.webp",
+      "tags": [
+        "machine",
+        "art",
+        "chaos",
+        "nature",
+        "fwwc",
+        "pattern"
+      ],
+      "description": "Strandbeest on Dutch beach with shelf cloud. PVC tubes, cable ties, no motor, no brain. Geometry IS the controller. Storm incoming, machine walking.",
+      "presets": [],
+      "channel_load": "DDE in physical form. Shannon's Mouse as kinetic sculpture."
+    },
+    {
+      "file": "SYrQg.jpg",
+      "tags": [
+        "chaos",
+        "pattern",
+        "graph",
+        "meta"
+      ],
+      "description": "Probable duplicate \u2014 same visual territory as other chaos game entries. Pending operator confirmation.",
+      "presets": [],
+      "channel_load": "Chaos game atlas \u2014 probable duplicate entry"
+    },
+    {
+      "file": "TaqRq.jpg",
+      "tags": [
+        "chaos",
+        "pattern",
+        "graph",
+        "meta"
+      ],
+      "description": "Chaos game atlas entry 6. Signal crammed into margins, center void. Edges as attractors.",
+      "presets": [],
+      "channel_load": "Edge concentration. Inverse of expected."
+    },
+    {
+      "file": "Ultimate_frisbee.width-550.jpg",
+      "tags": [
+        "sport"
+      ],
+      "description": "Ultimate frisbee in action",
+      "presets": [
+        "~beach",
+        "~gthang"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "Unit_disk_graph.svg.png",
+      "tags": [
+        "graph"
+      ],
+      "description": "Unit disk graph \u2014 graph theory visualization",
+      "presets": [
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "Westend61-d28bdca860d94fc9b7bfff0f4411ed58.jpg",
+      "tags": [
+        "human",
+        "balance",
+        "nature"
+      ],
+      "description": "Young couple, foreheads together, eyes closed, waterfront at dusk. Built a two-person room in the open air.",
+      "presets": [],
+      "channel_load": "Cross-modal: tactile carries what visual can't."
+    },
+    {
+      "file": "antique-typewriter-juan-r-velasco.jpg",
+      "tags": [
+        "machine",
+        "art"
+      ],
+      "description": "Antique typewriter \u2014 Juan R. Velasco photograph",
+      "presets": [
+        "~hammer",
+        "~jetta"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "around the world wav form.jpg",
+      "tags": [
+        "music",
+        "pattern"
+      ],
+      "description": "Audio waveform \u2014 'Around the World'",
+      "presets": [
+        "~beach",
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "biomedical09-1-1300x731.jpg",
+      "tags": [
+        "biology"
+      ],
+      "description": "Biomedical imagery \u2014 cellular/tissue level",
+      "presets": [
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "car.webp",
+      "tags": [
+        "machine",
+        "human",
+        "nature",
+        "balance"
+      ],
+      "description": "Night driving. Dashboard glowing blue-green, city lights streaking, mirror reflecting where you've been. Motion blur says speed, interior says safety.",
+      "presets": [
+        "~jetta"
+      ],
+      "channel_load": "The ride trajectory. Dashboard as controllable within uncontrollable."
+    },
+    {
+      "file": "circuit-board-1.jpeg",
+      "tags": [
+        "machine",
+        "pattern"
+      ],
+      "description": "Circuit board close-up \u2014 traces, components, structured complexity",
+      "presets": [
+        "~discovery",
+        "~newhouse"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "closeup-marketing-shot-pile-fried-260nw-2621110591.webp",
+      "tags": [
+        "food"
+      ],
+      "description": "Close-up of fried chicken pile \u2014 the Kentucky wedding energy",
+      "presets": [
+        "~jetta",
+        "~fair"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "colorful-luxe-fractal-spiral-turquoise-brown-orange-matthias-hauser.jpg",
+      "tags": [
+        "fractal"
+      ],
+      "description": "Colorful fractal spiral \u2014 turquoise/brown/orange, Matthias Hauser",
+      "presets": [
+        "~newhouse",
+        "~grove",
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "connelly-loop.jpeg",
+      "tags": [
+        "pattern",
+        "meta"
+      ],
+      "description": "Connelly loop \u2014 mathematical/topological loop structure",
+      "presets": [
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "crazy graph.jpg",
+      "tags": [
+        "graph"
+      ],
+      "description": "Complex graph visualization \u2014 dense connections",
+      "presets": [
+        "~discovery",
+        "~newhouse"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "discretegeometry-1440x842.png",
+      "tags": [
+        "graph",
+        "pattern"
+      ],
+      "description": "Discrete geometry visualization",
+      "presets": [
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "dm.png.webp",
+      "tags": [
+        "meta"
+      ],
+      "description": "DM image \u2014 project-related",
+      "presets": [],
+      "channel_load": ""
+    },
+    {
+      "file": "download (1).jpeg",
+      "tags": [
+        "food",
+        "machine",
+        "balance",
+        "meta"
+      ],
+      "description": "A grocery store aisle. Every inch is DDE Stage 4 at industrial scale. The most sophisticated attention architecture most people encounter daily, invisible because it works.",
+      "presets": [],
+      "channel_load": "Invisible design as the highest derivative."
+    },
+    {
+      "file": "ecc40151b0dc526ee0c7d4e2ffb04999.jpg",
+      "tags": [
+        "human",
+        "nature",
+        "balance",
+        "art",
+        "fwwc"
+      ],
+      "description": "Dinner under stars \u2014 long table, white flowers, string lights making ceiling with no walls. A room built from light and flowers and trust.",
+      "presets": [],
+      "channel_load": "Sensorium origin image. DDE Stage 2 in three dimensions."
+    },
+    {
+      "file": "eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2ZyYWN0YWwtdXBkYXRlMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==.webp",
+      "tags": [
+        "fractal"
+      ],
+      "description": "Fractal update image \u2014 base64-encoded source URL from HowStuffWorks",
+      "presets": [
+        "~newhouse",
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "finp3z0ah2zc1.png",
+      "tags": [
+        "nature",
+        "balance",
+        "space"
+      ],
+      "description": "Still water at dusk, sky and perfect reflection bisecting frame. When everything is this still, another pass would be violence.",
+      "presets": [],
+      "channel_load": "The stopping criterion environment."
+    },
+    {
+      "file": "flower.gif",
+      "tags": [
+        "nature",
+        "pattern"
+      ],
+      "description": "Flower animation \u2014 natural pattern, growth",
+      "presets": [
+        "~autumn",
+        "~grove"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "fractal.webp",
+      "tags": [
+        "fractal"
+      ],
+      "description": "Generic fractal image",
+      "presets": [
+        "~newhouse",
+        "~discovery",
+        "~grove"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "free-photo-of-serene-sunrise-camping-near-misty-forest.jpeg",
+      "tags": [
+        "nature"
+      ],
+      "description": "Serene sunrise camping near misty forest \u2014 THE camping preset image",
+      "presets": [
+        "~camping"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "game2baseball.jpg",
+      "tags": [
+        "sport"
+      ],
+      "description": "Baseball game image",
+      "presets": [
+        "~beach"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "houston-newborn-photographer-1220-02.webp",
+      "tags": [
+        "human"
+      ],
+      "description": "Newborn baby \u2014 photographer portrait",
+      "presets": [
+        "~tower",
+        "~hammer"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "hq720.jpeg",
+      "tags": [
+        "machine",
+        "art",
+        "nature",
+        "fwwc",
+        "chaos"
+      ],
+      "description": "Strandbeest flying variant \u2014 same PVC architecture with massive inflatable wings. Jansen beneath for scale. Domain boundary crossed.",
+      "presets": [],
+      "channel_load": "Domain phase transition. DDE has thresholds, not ceilings."
+    },
+    {
+      "file": "hq720.jpg",
+      "tags": [
+        "nature",
+        "balance",
+        "space",
+        "art"
+      ],
+      "description": "Red-orange sunset over rough ocean, waves against rocky jetty. Sky does fire, water does physics. Neither coordinates.",
+      "presets": [],
+      "channel_load": "Interface-layer composition. Two systems, one boundary."
+    },
+    {
+      "file": "hq720323.jpeg",
+      "tags": [
+        "graph",
+        "pattern",
+        "art",
+        "meta"
+      ],
+      "description": "12-circle discrete math concept grid. Scholar Sauce. Equal visual weight across every concept.",
+      "presets": [],
+      "channel_load": "Anti-hierarchy as hierarchy. KP Index in visual form."
+    },
+    {
+      "file": "i and love and you.png",
+      "tags": [
+        "music"
+      ],
+      "description": "I and Love and You \u2014 The Avett Brothers album/song art",
+      "presets": [
+        "~tower",
+        "~autumn"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "images (1).jpeg",
+      "tags": [
+        "nature",
+        "balance",
+        "human",
+        "machine"
+      ],
+      "description": "Dusk road, tropical, one streetlight against approaching dark. Vehicle headlights in distance.",
+      "presets": [],
+      "channel_load": "The canary as streetlight. One data point in approaching complexity."
+    },
+    {
+      "file": "images (2).jpeg",
+      "tags": [
+        "human",
+        "balance",
+        "fwwc"
+      ],
+      "description": "Baby in cream bear-ear hat, six months, looking directly at camera. Not smiling, not crying \u2014 observing.",
+      "presets": [],
+      "channel_load": "Cold-Eye Test in infant form."
+    },
+    {
+      "file": "images (3).jpeg",
+      "tags": [
+        "machine",
+        "art",
+        "human",
+        "meta"
+      ],
+      "description": "B&W industrial rotary printing press, man inspecting freshly printed newspaper. Machine taller than he is.",
+      "presets": [],
+      "channel_load": "Print Crew ancestor. Production vs. judgment gap."
+    },
+    {
+      "file": "images (4).jpeg",
+      "tags": [
+        "sport",
+        "nature",
+        "chaos",
+        "fwwc",
+        "balance"
+      ],
+      "description": "Big wave surfer in yellow, 30-40ft face. Tiny human against water wall. Position and ride.",
+      "presets": [],
+      "channel_load": "Shea's Walk as wave. Methodology is board, not wave."
+    },
+    {
+      "file": "images (5).jpeg",
+      "tags": [
+        "sport",
+        "nature",
+        "human",
+        "balance"
+      ],
+      "description": "Disc golf \u2014 disc mid-flight between thrower and basket. Body in follow-through. Playing through conditions that aren't ideal.",
+      "presets": [],
+      "channel_load": "The release point. Every shipped artifact has this moment."
+    },
+    {
+      "file": "images.jpeg",
+      "tags": [
+        "nature",
+        "biology",
+        "pattern",
+        "fractal"
+      ],
+      "description": "Macro of leaf vein network, backlit green. Main vein trunk branching to capillaries. Distribution grown, not imposed.",
+      "presets": [],
+      "channel_load": "Protocol tree as vascular system. Founding prompt = main vein."
+    },
+    {
+      "file": "images.png",
+      "tags": [
+        "graph",
+        "pattern",
+        "art",
+        "biology"
+      ],
+      "description": "Polyhedra folding/unfolding academic figure, 5 rows. Same structure in different fold states.",
+      "presets": [],
+      "channel_load": "Protocol versioning as structural folding."
+    },
+    {
+      "file": "k0Jej.jpg",
+      "tags": [
+        "chaos",
+        "pattern",
+        "graph",
+        "meta"
+      ],
+      "description": "Chaos game #7 \u2014 diagonal density gradient, dense lower-left to sparse upper-right.",
+      "presets": [],
+      "channel_load": "Parameter sensitivity atlas entry."
+    },
+    {
+      "file": "l21 screen.jpg",
+      "tags": [
+        "meta"
+      ],
+      "description": "L21 system screenshot \u2014 Loop 2.1 interface",
+      "presets": [],
+      "channel_load": ""
+    },
+    {
+      "file": "listening_to_music_while_studying.webp",
+      "tags": [
+        "music",
+        "human"
+      ],
+      "description": "Person listening to music while studying",
+      "presets": [
+        "~tower",
+        "~camping"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "loop 2.0 screen.jpg",
+      "tags": [
+        "meta"
+      ],
+      "description": "Loop 2.0 system screenshot \u2014 predecessor interface",
+      "presets": [],
+      "channel_load": ""
+    },
+    {
+      "file": "mandelbrot explanation graphic.jpg",
+      "tags": [
+        "fractal",
+        "graph"
+      ],
+      "description": "Mandelbrot set explanation graphic \u2014 educational diagram",
+      "presets": [
+        "~discovery",
+        "~newhouse"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "media_1a3f2c60722b2190df9ac48e76031a17bc863edef.jpeg",
+      "tags": [
+        "fractal",
+        "pattern",
+        "art",
+        "chaos"
+      ],
+      "description": "Deep-zoom fractal \u2014 teal, purple, gold spirals. Mini-Mandelbrots in gold filigree. Each is complete copy at reduced scale.",
+      "presets": [],
+      "channel_load": "Holographic property. Each part contains the whole."
+    },
+    {
+      "file": "momnewborn-2.webp",
+      "tags": [
+        "human"
+      ],
+      "description": "Mother with newborn baby",
+      "presets": [
+        "~tower",
+        "~hammer"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "newborn-baby-care-2.webp",
+      "tags": [
+        "human"
+      ],
+      "description": "Newborn baby care",
+      "presets": [
+        "~tower"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "ooyyzvquvjf81.jpeg",
+      "tags": [
+        "biology",
+        "pattern",
+        "art",
+        "fractal"
+      ],
+      "description": "Cell interior \u2014 tight crop on mitochondrion and microtubules. Mitochondrion: once independent, now autonomous servant.",
+      "presets": [],
+      "channel_load": "The mitochondrion as Shop. Own DNA, own processes."
+    },
+    {
+      "file": "psychedelic-fractal-970296.webp",
+      "tags": [
+        "fractal"
+      ],
+      "description": "Psychedelic fractal \u2014 vivid colors, deep zoom",
+      "presets": [
+        "~newhouse",
+        "~grove",
+        "~gthang"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "rCxwT.jpg",
+      "tags": [
+        "chaos",
+        "pattern",
+        "graph",
+        "meta"
+      ],
+      "description": "Chaos game #8 \u2014 diagonal density with vertical banding.",
+      "presets": [],
+      "channel_load": "Atlas entry 8. Collection IS the argument."
+    },
+    {
+      "file": "s-l1200.jpg",
+      "tags": [
+        "machine",
+        "meta",
+        "human"
+      ],
+      "description": "MacBook Pro, default macOS wallpaper. The tool where the methodology happens.",
+      "presets": [],
+      "channel_load": "The tool as channel. Pairs with JettaMkII."
+    },
+    {
+      "file": "shutterstock_2464129821.jpg",
+      "tags": [
+        "nature",
+        "balance",
+        "space"
+      ],
+      "description": "Ocean sunset \u2014 sun half-circle dead center. Gold through lavender layers. One source, every surface.",
+      "presets": [],
+      "channel_load": "Sol's domain. That's a Wrap in visual form."
+    },
+    {
+      "file": "sound board.jpeg",
+      "tags": [
+        "music",
+        "machine"
+      ],
+      "description": "Sound mixing board \u2014 audio production",
+      "presets": [
+        "~beach",
+        "~discovery"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "staying-warm-and-safe-during-the-holidays_1200x600.jpg",
+      "tags": [
+        "human",
+        "nature"
+      ],
+      "description": "Warm holiday scene \u2014 comfort, safety, seasonal",
+      "presets": [
+        "~camping",
+        "~tower"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "sterling-bunnell-1903-academy-revillagigedo-islands-expedition-soccorro-parrot-003-copy.jpg",
+      "tags": [
+        "nature"
+      ],
+      "description": "Socorro parrot \u2014 1903 expedition photograph, Sterling Bunnell",
+      "presets": [
+        "~grove"
+      ],
+      "channel_load": ""
+    },
+    {
+      "file": "FWW(C)/",
+      "tags": [
+        "fwwc"
+      ],
+      "description": "FWW(C) subfolder \u2014 Fun, Whimsy, Weird, and Chaos images",
+      "presets": [
+        "~newhouse"
+      ],
+      "is_folder": true,
+      "note": "Contents need separate inventory",
+      "channel_load": ""
+    },
+    {
+      "file": "chaos.jpg",
+      "tags": [
+        "chaos",
+        "pattern",
+        "art",
+        "fwwc"
+      ],
+      "description": "Particle traces on deep navy \u2014 neon threads tangling with bokeh nodes. Chaos as generative force.",
+      "channel_load": "The C in FWW(C).",
+      "presets": [
+        "~discovery",
+        "~grove",
+        "~newhouse"
+      ]
+    },
+    {
+      "file": "weird.jpg",
+      "tags": [
+        "human",
+        "fwwc",
+        "food"
+      ],
+      "description": "Man in watermelon helmet, PVC goggles, green cape. Full commitment to the bit.",
+      "channel_load": "The W(eird) in FWW(C).",
+      "presets": [
+        "~fair",
+        "~gthang"
+      ]
+    },
+    {
+      "file": "whimsy.jpeg",
+      "tags": [
+        "art",
+        "fwwc",
+        "chaos"
+      ],
+      "description": "Pastel whimsy-maxxing era illustration. Crowned blob, unicorn-pegasus, clouds with faces.",
+      "channel_load": "The W(himsy) in FWW(C).",
+      "presets": [
+        "~fair",
+        "~gthang"
+      ]
+    },
+    {
+      "file": "FUN.jpg",
+      "tags": [
+        "human",
+        "fwwc",
+        "sport",
+        "nature"
+      ],
+      "description": "Three on roller coaster cresting hill, arms up, hair flying. They chose the ride.",
+      "channel_load": "The F(un) in FWW(C).",
+      "presets": [
+        "~fair",
+        "~gthang"
+      ]
+    },
+    {
+      "file": "Bohemian Grove (Bohemian G)-118-10.png",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "fwwc"
+      ],
+      "description": "Minecraft skyscraper aerial \u2014 white frame, colored glass, rooftop gardens. Building as DDE run.",
+      "channel_load": "Operator provenance.",
+      "presets": [
+        "~grove",
+        "~hammer"
+      ]
+    },
+    {
+      "file": "Bohemian Grove (Bohemian G)-118-40.png",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "nature"
+      ],
+      "description": "Minecraft world wider view. Tilting skyscraper, canals, mountains. Scale of accumulated work.",
+      "channel_load": "Accumulated sessions visible.",
+      "presets": [
+        "~grove",
+        "~hammer"
+      ]
+    },
+    {
+      "file": "Bohemian Grove (Bohemian G)-220-16.png",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "space",
+        "fwwc"
+      ],
+      "description": "Minecraft world as globe. Fish-eye planet render. Infrastructure from orbit.",
+      "channel_load": "Handoff from orbit. Shannon's Mouse at max altitude.",
+      "presets": [
+        "~grove",
+        "~hammer",
+        "~discovery"
+      ]
+    },
+    {
+      "file": "Bohemian Grove (Bohemian G)-221-100.png",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "nature",
+        "chaos"
+      ],
+      "description": "World's edge view. Build area into void. The frontier.",
+      "channel_load": "Where the built stops and possibility starts.",
+      "presets": [
+        "~grove",
+        "~hammer"
+      ]
+    },
+    {
+      "file": "Grove- I built this-smaller res.jpg",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "fwwc",
+        "human"
+      ],
+      "description": "Builder's-eye from skyscraper top. Stained glass underfoot, world receding. I built this.",
+      "channel_load": "Authorship.",
+      "presets": [
+        "~grove",
+        "~hammer"
+      ]
+    },
+    {
+      "file": "default_2024-04-25_21-52-32-100.png",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "nature",
+        "space"
+      ],
+      "description": "Minecraft isometric overview. Full world extent, city center, biome diversity.",
+      "channel_load": "DDE portfolio \u2014 Stage 1 composition.",
+      "presets": [
+        "~grove"
+      ]
+    },
+    {
+      "file": "default_2024-04-26_22-05-06-5.png",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "nature",
+        "space"
+      ],
+      "description": "Minecraft top-down southwest. Widest extent including desert/mesa biomes.",
+      "channel_load": "DDE portfolio \u2014 widest survey.",
+      "presets": [
+        "~grove"
+      ]
+    },
+    {
+      "file": "default_2024-04-27_07-18-17-16.png",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "nature",
+        "space"
+      ],
+      "description": "Minecraft southeast side view. Coastal development, bridges, archipelago.",
+      "channel_load": "DDE portfolio \u2014 coastal infrastructure.",
+      "presets": [
+        "~grove"
+      ]
+    },
+    {
+      "file": "default_2024-04-27_07-18-17-25.png",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "nature",
+        "space"
+      ],
+      "description": "Minecraft south angle. City upper-left, road grid, cable-stayed bridge.",
+      "channel_load": "DDE portfolio \u2014 urban planning.",
+      "presets": [
+        "~grove"
+      ]
+    },
+    {
+      "file": "default_2024-04-30_10-36-40-50.png",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "balance",
+        "pattern"
+      ],
+      "description": "Minecraft interior \u2014 ground-level up through atrium. Columns to vanishing point. Cathedral in blocks.",
+      "channel_load": "DDE Stage 3 refinement in physical form.",
+      "presets": [
+        "~grove",
+        "~hammer"
+      ]
+    },
+    {
+      "file": "default_2024-04-30_13-24-45-41.png",
+      "tags": [
+        "meta",
+        "machine",
+        "art",
+        "nature",
+        "space"
+      ],
+      "description": "Minecraft southwest aerial. Full world: suspension bridge, mesa, city center, islands.",
+      "channel_load": "DDE portfolio \u2014 final survey angle.",
+      "presets": [
+        "~grove"
+      ]
+    }
+  ]
+}
