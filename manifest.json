@@ -1,0 +1,642 @@
+{
+  "version": 1,
+  "updated": "2026-04-30",
+  "base_url": "https://raw.githubusercontent.com/sheagunther/sensorium-library/main/",
+  "notes": "v1 manifest. Images classified from filenames. Items marked 'needs-visual-review' require viewing to confirm classification. Tags and preset associations will evolve with use.",
+  "categories": {
+    "fractal": "Self-similar recursive patterns. Fractals, Mandelbrot, chaos game outputs.",
+    "biology": "Cells, organisms, microscopy, biomedical imagery.",
+    "space": "Astronomical imagery, deep field, galaxies.",
+    "graph": "Graph theory, network diagrams, mathematical visualizations.",
+    "pattern": "Chaos game, Game of Life, emergent patterns, geometric structures.",
+    "nature": "Natural environments, camping, seasons, landscapes.",
+    "music": "Waveforms, sound boards, music-related imagery.",
+    "human": "People, babies, families, emotional/relational imagery.",
+    "machine": "Circuit boards, typewriters, printing presses, technology.",
+    "sport": "Ultimate frisbee, baseball, physical activity.",
+    "food": "Fried chicken, cookies, sensory food imagery.",
+    "meta": "Loop MMT system screenshots, L21, Loop 2.0.",
+    "art": "Paintings, notebooks, historical art.",
+    "chaos": "Chaos theory, Watts painting, disorder/emergence.",
+    "balance": "Balance, equilibrium, centering imagery.",
+    "fwwc": "Fun, Whimsy, Weird, and Chaos — dedicated folder."
+  },
+  "presets": {
+    "~jetta": ["meta", "machine", "fractal"],
+    "~grove": ["nature", "space", "pattern", "fractal"],
+    "~camping": ["nature", "balance"],
+    "~tower": ["human", "balance", "nature"],
+    "~newhouse": ["fractal", "food", "pattern", "fwwc"],
+    "~discovery": ["biology", "space", "graph", "fractal", "machine"],
+    "~beach": ["nature", "music", "balance"],
+    "~fair": ["food", "human", "nature"],
+    "~autumn": ["nature", "balance", "food"],
+    "~gthang": ["nature", "balance", "fractal"],
+    "~hammer": ["machine", "human", "art", "chaos"]
+  },
+  "images": [
+    {
+      "file": "0-Image-depicts-Balance-Life-Balance-something-we-all-need-to-work-on.-1.webp",
+      "tags": ["balance", "human"],
+      "description": "Balance / life balance concept image",
+      "presets": ["~camping", "~tower", "~gthang", "~autumn"]
+    },
+    {
+      "file": "0011511101.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Unknown — numeric filename, needs viewing",
+      "presets": []
+    },
+    {
+      "file": "0x0.webp",
+      "tags": ["needs-visual-review"],
+      "description": "Unknown — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "1000_F_89739808_ICYXEx6qedTSoVijuSboQUhiICs4U28c.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Stock photo — needs viewing to classify",
+      "presets": []
+    },
+    {
+      "file": "11.16.22_066-scaled.webp",
+      "tags": ["needs-visual-review"],
+      "description": "Dated photo — possibly personal, needs viewing",
+      "presets": []
+    },
+    {
+      "file": "1440_cell_explainer_feat.jpeg",
+      "tags": ["biology"],
+      "description": "Cell biology explainer image",
+      "presets": ["~discovery"]
+    },
+    {
+      "file": "200908311112494776.jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Numeric filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "240_F_297450890_dvS9gNGoqPJcwgnM0XufLFq7PU7mD1cg (1).jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Stock photo — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "240_F_297450890_dvS9gNGoqPJcwgnM0XufLFq7PU7mD1cg.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Stock photo duplicate — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "240_F_554122879_bGaCCrt7NbGJoZHb9iP4LvEgBDcTA7OG.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Stock photo — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "375_image.jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Unknown — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "42 graph.jpg",
+      "tags": ["graph", "pattern"],
+      "description": "Graph visualization — likely mathematical, the number 42",
+      "presets": ["~discovery", "~newhouse"]
+    },
+    {
+      "file": "4life2.png",
+      "tags": ["needs-visual-review"],
+      "description": "Possibly Game of Life variant — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "5n3jo8hzo7161.jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Reddit-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "5n3jo8hzo7161.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Reddit-style filename duplicate — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "7Sqvs.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Imgur-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "800px-mandel_zoom_08_satellite_antennawolfgangbeyer 2.jpg",
+      "tags": ["fractal"],
+      "description": "Mandelbrot set zoom — satellite antenna region, Wolfgang Beyer",
+      "presets": ["~newhouse", "~discovery", "~grove"]
+    },
+    {
+      "file": "800px-mandel_zoom_08_satellite_antennawolfgangbeyer.jpg",
+      "tags": ["fractal"],
+      "description": "Mandelbrot set zoom — satellite antenna region, Wolfgang Beyer (original)",
+      "presets": ["~newhouse", "~discovery", "~grove"]
+    },
+    {
+      "file": "9Dbeh.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Imgur-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "AAAAQTMyo2nn_yyUb0VMVHRGmrFNpOLoRuB_VkZJ1yxYReno5EsGE0CoIQiLQC57tvKf417IeWRn882GYdn86RmgaqgR6oDf7YeWvevyioaZZH1qMG-boYoH_xn2bFbPDkB7V1RbABP6pWXPcXngnwrtNFnzb7k.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Long hash filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "AdobeStock_200283180-scaled.jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Adobe Stock image — needs viewing to classify",
+      "presets": []
+    },
+    {
+      "file": "Adobe_Stock_517703715_1920x1080_edda01802e.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Adobe Stock image — needs viewing to classify",
+      "presets": []
+    },
+    {
+      "file": "Assistants_and_George_Frederic_Watts_-_Chaos_-_Google_Art_Project.jpg",
+      "tags": ["chaos", "art"],
+      "description": "George Frederic Watts — 'Chaos' painting from Google Art Project",
+      "presets": ["~hammer", "~grove"]
+    },
+    {
+      "file": "C6IYTLFXR5HRPLB65GC3ZMS4QM.avif",
+      "tags": ["needs-visual-review"],
+      "description": "Hash filename, avif format — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "D6IX3y6W4AA5Tcy-e1568650082122.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Twitter-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "DM-Logo.png",
+      "tags": ["meta"],
+      "description": "DM Logo — possibly Dungeon Master or project logo",
+      "presets": []
+    },
+    {
+      "file": "Electron-Microscope-image-of-a-cell.jpeg",
+      "tags": ["biology"],
+      "description": "Electron microscope image of a cell — high detail microstructure",
+      "presets": ["~discovery", "~grove"]
+    },
+    {
+      "file": "FeatureArt_loek_van_der_Klis_Umerus.webp",
+      "tags": ["art"],
+      "description": "Feature art by Loek van der Klis — Umerus",
+      "presets": ["~grove"]
+    },
+    {
+      "file": "Fig1C-MapTypes.gif",
+      "tags": ["graph", "pattern"],
+      "description": "Map types figure — mathematical/scientific visualization",
+      "presets": ["~discovery"]
+    },
+    {
+      "file": "FoJtO.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Imgur-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "Fzbv1.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Imgur-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "Game3.jpg",
+      "tags": ["pattern"],
+      "description": "Game image — possibly chaos game or Game of Life output",
+      "presets": ["~newhouse", "~discovery"]
+    },
+    {
+      "file": "GettyImages-1443082896-f704c0aca1aa4edca9f56417e51d0423.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Getty stock image — needs viewing to classify",
+      "presets": []
+    },
+    {
+      "file": "Gospers_glider_gun.gif",
+      "tags": ["pattern"],
+      "description": "Gosper's Glider Gun — Conway's Game of Life emergent pattern",
+      "presets": ["~discovery", "~newhouse"]
+    },
+    {
+      "file": "Graph_Bounds_2880x1620_Lede-scaled.jpeg",
+      "tags": ["graph"],
+      "description": "Graph bounds visualization — mathematical",
+      "presets": ["~discovery"]
+    },
+    {
+      "file": "Gutenberg.webp",
+      "tags": ["machine", "art"],
+      "description": "Gutenberg printing press — historical technology",
+      "presets": ["~hammer", "~discovery"]
+    },
+    {
+      "file": "Hubble_ultra_deep_field_high_rez_edit1.jpg",
+      "tags": ["space"],
+      "description": "Hubble Ultra Deep Field — thousands of galaxies, deep space",
+      "presets": ["~grove", "~discovery", "~hammer"]
+    },
+    {
+      "file": "JanFeb19carousel_0002_game-768x346.jpg",
+      "tags": ["pattern"],
+      "description": "Game visualization — smaller version",
+      "presets": ["~newhouse"]
+    },
+    {
+      "file": "JanFeb19carousel_0002_game.jpg",
+      "tags": ["pattern"],
+      "description": "Game visualization — full size",
+      "presets": ["~newhouse"]
+    },
+    {
+      "file": "JettaMkII.jpeg",
+      "tags": ["meta", "machine"],
+      "description": "VW Jetta Mk II — THE Jetta. The tan one with the holes in the floor.",
+      "presets": ["~jetta"]
+    },
+    {
+      "file": "LcP2u.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Imgur-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "Mandelbrot_set_10000px.png",
+      "tags": ["fractal"],
+      "description": "Mandelbrot set — 10000px high resolution full set",
+      "presets": ["~newhouse", "~discovery", "~grove"]
+    },
+    {
+      "file": "NNfCm8LqwFFsu6JqUutkoZ.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Hash filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "NotebookkeptRaf00Rafi_0066.webp",
+      "tags": ["art"],
+      "description": "Historical notebook page — Raphael or similar artist's notes",
+      "presets": ["~discovery", "~hammer"]
+    },
+    {
+      "file": "Person+listening+to+music.webp",
+      "tags": ["music", "human"],
+      "description": "Person listening to music",
+      "presets": ["~tower", "~fair"]
+    },
+    {
+      "file": "Picture-223.webp",
+      "tags": ["needs-visual-review"],
+      "description": "Generic filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "SYrQg.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Imgur-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "TaqRq.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Imgur-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "Ultimate_frisbee.width-550.jpg",
+      "tags": ["sport"],
+      "description": "Ultimate frisbee in action",
+      "presets": ["~beach", "~gthang"]
+    },
+    {
+      "file": "Unit_disk_graph.svg.png",
+      "tags": ["graph"],
+      "description": "Unit disk graph — graph theory visualization",
+      "presets": ["~discovery"]
+    },
+    {
+      "file": "Westend61-d28bdca860d94fc9b7bfff0f4411ed58.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Westend61 stock image — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "antique-typewriter-juan-r-velasco.jpg",
+      "tags": ["machine", "art"],
+      "description": "Antique typewriter — Juan R. Velasco photograph",
+      "presets": ["~hammer", "~jetta"]
+    },
+    {
+      "file": "around the world wav form.jpg",
+      "tags": ["music", "pattern"],
+      "description": "Audio waveform — 'Around the World'",
+      "presets": ["~beach", "~discovery"]
+    },
+    {
+      "file": "biomedical09-1-1300x731.jpg",
+      "tags": ["biology"],
+      "description": "Biomedical imagery — cellular/tissue level",
+      "presets": ["~discovery"]
+    },
+    {
+      "file": "car.webp",
+      "tags": ["needs-visual-review", "machine"],
+      "description": "Car image — needs viewing for specifics",
+      "presets": ["~jetta"]
+    },
+    {
+      "file": "circuit-board-1.jpeg",
+      "tags": ["machine", "pattern"],
+      "description": "Circuit board close-up — traces, components, structured complexity",
+      "presets": ["~discovery", "~newhouse"]
+    },
+    {
+      "file": "closeup-marketing-shot-pile-fried-260nw-2621110591.webp",
+      "tags": ["food"],
+      "description": "Close-up of fried chicken pile — the Kentucky wedding energy",
+      "presets": ["~jetta", "~fair"]
+    },
+    {
+      "file": "colorful-luxe-fractal-spiral-turquoise-brown-orange-matthias-hauser.jpg",
+      "tags": ["fractal"],
+      "description": "Colorful fractal spiral — turquoise/brown/orange, Matthias Hauser",
+      "presets": ["~newhouse", "~grove", "~discovery"]
+    },
+    {
+      "file": "connelly-loop.jpeg",
+      "tags": ["pattern", "meta"],
+      "description": "Connelly loop — mathematical/topological loop structure",
+      "presets": ["~discovery"]
+    },
+    {
+      "file": "crazy graph.jpg",
+      "tags": ["graph"],
+      "description": "Complex graph visualization — dense connections",
+      "presets": ["~discovery", "~newhouse"]
+    },
+    {
+      "file": "discretegeometry-1440x842.png",
+      "tags": ["graph", "pattern"],
+      "description": "Discrete geometry visualization",
+      "presets": ["~discovery"]
+    },
+    {
+      "file": "dm.png.webp",
+      "tags": ["meta"],
+      "description": "DM image — project-related",
+      "presets": []
+    },
+    {
+      "file": "download (1).jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Generic download — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "ecc40151b0dc526ee0c7d4e2ffb04999.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Hash filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2ZyYWN0YWwtdXBkYXRlMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==.webp",
+      "tags": ["fractal"],
+      "description": "Fractal update image — base64-encoded source URL from HowStuffWorks",
+      "presets": ["~newhouse", "~discovery"]
+    },
+    {
+      "file": "finp3z0ah2zc1.png",
+      "tags": ["needs-visual-review"],
+      "description": "Reddit-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "flower.gif",
+      "tags": ["nature", "pattern"],
+      "description": "Flower animation — natural pattern, growth",
+      "presets": ["~autumn", "~grove"]
+    },
+    {
+      "file": "fractal.webp",
+      "tags": ["fractal"],
+      "description": "Generic fractal image",
+      "presets": ["~newhouse", "~discovery", "~grove"]
+    },
+    {
+      "file": "free-photo-of-serene-sunrise-camping-near-misty-forest.jpeg",
+      "tags": ["nature"],
+      "description": "Serene sunrise camping near misty forest — THE camping preset image",
+      "presets": ["~camping"]
+    },
+    {
+      "file": "game2baseball.jpg",
+      "tags": ["sport"],
+      "description": "Baseball game image",
+      "presets": ["~beach"]
+    },
+    {
+      "file": "houston-newborn-photographer-1220-02.webp",
+      "tags": ["human"],
+      "description": "Newborn baby — photographer portrait",
+      "presets": ["~tower", "~hammer"]
+    },
+    {
+      "file": "hq720.jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "YouTube thumbnail size — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "hq720.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "YouTube thumbnail size — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "hq720323.jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "YouTube thumbnail size — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "i and love and you.png",
+      "tags": ["music"],
+      "description": "I and Love and You — The Avett Brothers album/song art",
+      "presets": ["~tower", "~autumn"]
+    },
+    {
+      "file": "images (1).jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Generic download — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "images (2).jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Generic download — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "images (3).jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Generic download — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "images (4).jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Generic download — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "images (5).jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Generic download — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "images.jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Generic download — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "images.png",
+      "tags": ["needs-visual-review"],
+      "description": "Generic download — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "k0Jej.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Imgur-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "l21 screen.jpg",
+      "tags": ["meta"],
+      "description": "L21 system screenshot — Loop 2.1 interface",
+      "presets": []
+    },
+    {
+      "file": "listening_to_music_while_studying.webp",
+      "tags": ["music", "human"],
+      "description": "Person listening to music while studying",
+      "presets": ["~tower", "~camping"]
+    },
+    {
+      "file": "loop 2.0 screen.jpg",
+      "tags": ["meta"],
+      "description": "Loop 2.0 system screenshot — predecessor interface",
+      "presets": []
+    },
+    {
+      "file": "mandelbrot explanation graphic.jpg",
+      "tags": ["fractal", "graph"],
+      "description": "Mandelbrot set explanation graphic — educational diagram",
+      "presets": ["~discovery", "~newhouse"]
+    },
+    {
+      "file": "media_1a3f2c60722b2190df9ac48e76031a17bc863edef.jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Media hash filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "momnewborn-2.webp",
+      "tags": ["human"],
+      "description": "Mother with newborn baby",
+      "presets": ["~tower", "~hammer"]
+    },
+    {
+      "file": "newborn-baby-care-2.webp",
+      "tags": ["human"],
+      "description": "Newborn baby care",
+      "presets": ["~tower"]
+    },
+    {
+      "file": "ooyyzvquvjf81.jpeg",
+      "tags": ["needs-visual-review"],
+      "description": "Reddit-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "psychedelic-fractal-970296.webp",
+      "tags": ["fractal"],
+      "description": "Psychedelic fractal — vivid colors, deep zoom",
+      "presets": ["~newhouse", "~grove", "~gthang"]
+    },
+    {
+      "file": "rCxwT.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Imgur-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "s-l1200.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "eBay-style filename — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "shutterstock_2464129821.jpg",
+      "tags": ["needs-visual-review"],
+      "description": "Shutterstock image — needs viewing",
+      "presets": []
+    },
+    {
+      "file": "sound board.jpeg",
+      "tags": ["music", "machine"],
+      "description": "Sound mixing board — audio production",
+      "presets": ["~beach", "~discovery"]
+    },
+    {
+      "file": "staying-warm-and-safe-during-the-holidays_1200x600.jpg",
+      "tags": ["human", "nature"],
+      "description": "Warm holiday scene — comfort, safety, seasonal",
+      "presets": ["~camping", "~tower"]
+    },
+    {
+      "file": "sterling-bunnell-1903-academy-revillagigedo-islands-expedition-soccorro-parrot-003-copy.jpg",
+      "tags": ["nature"],
+      "description": "Socorro parrot — 1903 expedition photograph, Sterling Bunnell",
+      "presets": ["~grove"]
+    },
+    {
+      "file": "FWW(C)/",
+      "tags": ["fwwc"],
+      "description": "FWW(C) subfolder — Fun, Whimsy, Weird, and Chaos images",
+      "presets": ["~newhouse"],
+      "is_folder": true,
+      "note": "Contents need separate inventory"
+    }
+  ],
+  "stats": {
+    "total_images": 88,
+    "classified": 52,
+    "needs_visual_review": 36,
+    "categories_used": 15,
+    "presets_with_images": 11
+  }
+}
