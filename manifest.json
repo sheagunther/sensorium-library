@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-04-30",
   "base_url": "https://raw.githubusercontent.com/sheagunther/sensorium-library/main/",
-  "notes": "v1 manifest. Images classified from filenames. Items marked 'needs-visual-review' require viewing to confirm classification. Tags and preset associations will evolve with use.",
+  "notes": "v2 manifest. Tier fields added (standard/source). FWW(C) folder inventoried. Resize spec: standard=1024px, source=1536px.",
   "categories": {
     "fractal": "Self-similar recursive patterns. Fractals, Mandelbrot, chaos game outputs.",
     "biology": "Cells, organisms, microscopy, biomedical imagery.",
@@ -19,624 +19,1180 @@
     "art": "Paintings, notebooks, historical art.",
     "chaos": "Chaos theory, Watts painting, disorder/emergence.",
     "balance": "Balance, equilibrium, centering imagery.",
-    "fwwc": "Fun, Whimsy, Weird, and Chaos — dedicated folder."
+    "fwwc": "Fun, Whimsy, Weird, and Chaos \u2014 dedicated folder."
   },
   "presets": {
-    "~jetta": ["meta", "machine", "fractal"],
-    "~grove": ["nature", "space", "pattern", "fractal"],
-    "~camping": ["nature", "balance"],
-    "~tower": ["human", "balance", "nature"],
-    "~newhouse": ["fractal", "food", "pattern", "fwwc"],
-    "~discovery": ["biology", "space", "graph", "fractal", "machine"],
-    "~beach": ["nature", "music", "balance"],
-    "~fair": ["food", "human", "nature"],
-    "~autumn": ["nature", "balance", "food"],
-    "~gthang": ["nature", "balance", "fractal"],
-    "~hammer": ["machine", "human", "art", "chaos"]
+    "~jetta": [
+      "meta",
+      "machine",
+      "fractal"
+    ],
+    "~grove": [
+      "nature",
+      "space",
+      "pattern",
+      "fractal"
+    ],
+    "~camping": [
+      "nature",
+      "balance"
+    ],
+    "~tower": [
+      "human",
+      "balance",
+      "nature"
+    ],
+    "~newhouse": [
+      "fractal",
+      "food",
+      "pattern",
+      "fwwc"
+    ],
+    "~discovery": [
+      "biology",
+      "space",
+      "graph",
+      "fractal",
+      "machine"
+    ],
+    "~beach": [
+      "nature",
+      "music",
+      "balance"
+    ],
+    "~fair": [
+      "food",
+      "human",
+      "nature"
+    ],
+    "~autumn": [
+      "nature",
+      "balance",
+      "food"
+    ],
+    "~gthang": [
+      "nature",
+      "balance",
+      "fractal"
+    ],
+    "~hammer": [
+      "machine",
+      "human",
+      "art",
+      "chaos"
+    ]
   },
   "images": [
     {
       "file": "0-Image-depicts-Balance-Life-Balance-something-we-all-need-to-work-on.-1.webp",
-      "tags": ["balance", "human"],
+      "tags": [
+        "balance",
+        "human"
+      ],
       "description": "Balance / life balance concept image",
-      "presets": ["~camping", "~tower", "~gthang", "~autumn"]
+      "presets": [
+        "~camping",
+        "~tower",
+        "~gthang",
+        "~autumn"
+      ],
+      "tier": "standard"
     },
     {
       "file": "0011511101.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Unknown — numeric filename, needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Unknown \u2014 numeric filename, needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "0x0.webp",
-      "tags": ["needs-visual-review"],
-      "description": "Unknown — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Unknown \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "1000_F_89739808_ICYXEx6qedTSoVijuSboQUhiICs4U28c.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Stock photo — needs viewing to classify",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Stock photo \u2014 needs viewing to classify",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "11.16.22_066-scaled.webp",
-      "tags": ["needs-visual-review"],
-      "description": "Dated photo — possibly personal, needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Dated photo \u2014 possibly personal, needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "1440_cell_explainer_feat.jpeg",
-      "tags": ["biology"],
+      "tags": [
+        "biology"
+      ],
       "description": "Cell biology explainer image",
-      "presets": ["~discovery"]
+      "presets": [
+        "~discovery"
+      ],
+      "tier": "source"
     },
     {
       "file": "200908311112494776.jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Numeric filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Numeric filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "240_F_297450890_dvS9gNGoqPJcwgnM0XufLFq7PU7mD1cg (1).jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Stock photo — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Stock photo \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "240_F_297450890_dvS9gNGoqPJcwgnM0XufLFq7PU7mD1cg.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Stock photo duplicate — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Stock photo duplicate \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "240_F_554122879_bGaCCrt7NbGJoZHb9iP4LvEgBDcTA7OG.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Stock photo — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Stock photo \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "375_image.jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Unknown — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Unknown \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "42 graph.jpg",
-      "tags": ["graph", "pattern"],
-      "description": "Graph visualization — likely mathematical, the number 42",
-      "presets": ["~discovery", "~newhouse"]
+      "tags": [
+        "graph",
+        "pattern"
+      ],
+      "description": "Graph visualization \u2014 likely mathematical, the number 42",
+      "presets": [
+        "~discovery",
+        "~newhouse"
+      ],
+      "tier": "standard"
     },
     {
       "file": "4life2.png",
-      "tags": ["needs-visual-review"],
-      "description": "Possibly Game of Life variant — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Possibly Game of Life variant \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "5n3jo8hzo7161.jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Reddit-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Reddit-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "5n3jo8hzo7161.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Reddit-style filename duplicate — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Reddit-style filename duplicate \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "7Sqvs.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Imgur-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Imgur-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "800px-mandel_zoom_08_satellite_antennawolfgangbeyer 2.jpg",
-      "tags": ["fractal"],
-      "description": "Mandelbrot set zoom — satellite antenna region, Wolfgang Beyer",
-      "presets": ["~newhouse", "~discovery", "~grove"]
+      "tags": [
+        "fractal"
+      ],
+      "description": "Mandelbrot set zoom \u2014 satellite antenna region, Wolfgang Beyer",
+      "presets": [
+        "~newhouse",
+        "~discovery",
+        "~grove"
+      ],
+      "tier": "source"
     },
     {
       "file": "800px-mandel_zoom_08_satellite_antennawolfgangbeyer.jpg",
-      "tags": ["fractal"],
-      "description": "Mandelbrot set zoom — satellite antenna region, Wolfgang Beyer (original)",
-      "presets": ["~newhouse", "~discovery", "~grove"]
+      "tags": [
+        "fractal"
+      ],
+      "description": "Mandelbrot set zoom \u2014 satellite antenna region, Wolfgang Beyer (original)",
+      "presets": [
+        "~newhouse",
+        "~discovery",
+        "~grove"
+      ],
+      "tier": "source"
     },
     {
       "file": "9Dbeh.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Imgur-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Imgur-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "AAAAQTMyo2nn_yyUb0VMVHRGmrFNpOLoRuB_VkZJ1yxYReno5EsGE0CoIQiLQC57tvKf417IeWRn882GYdn86RmgaqgR6oDf7YeWvevyioaZZH1qMG-boYoH_xn2bFbPDkB7V1RbABP6pWXPcXngnwrtNFnzb7k.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Long hash filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Long hash filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "AdobeStock_200283180-scaled.jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Adobe Stock image — needs viewing to classify",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Adobe Stock image \u2014 needs viewing to classify",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "Adobe_Stock_517703715_1920x1080_edda01802e.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Adobe Stock image — needs viewing to classify",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Adobe Stock image \u2014 needs viewing to classify",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "Assistants_and_George_Frederic_Watts_-_Chaos_-_Google_Art_Project.jpg",
-      "tags": ["chaos", "art"],
-      "description": "George Frederic Watts — 'Chaos' painting from Google Art Project",
-      "presets": ["~hammer", "~grove"]
+      "tags": [
+        "chaos",
+        "art"
+      ],
+      "description": "George Frederic Watts \u2014 'Chaos' painting from Google Art Project",
+      "presets": [
+        "~hammer",
+        "~grove"
+      ],
+      "tier": "standard"
     },
     {
       "file": "C6IYTLFXR5HRPLB65GC3ZMS4QM.avif",
-      "tags": ["needs-visual-review"],
-      "description": "Hash filename, avif format — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Hash filename, avif format \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "D6IX3y6W4AA5Tcy-e1568650082122.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Twitter-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Twitter-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "DM-Logo.png",
-      "tags": ["meta"],
-      "description": "DM Logo — possibly Dungeon Master or project logo",
-      "presets": []
+      "tags": [
+        "meta"
+      ],
+      "description": "DM Logo \u2014 possibly Dungeon Master or project logo",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "Electron-Microscope-image-of-a-cell.jpeg",
-      "tags": ["biology"],
-      "description": "Electron microscope image of a cell — high detail microstructure",
-      "presets": ["~discovery", "~grove"]
+      "tags": [
+        "biology"
+      ],
+      "description": "Electron microscope image of a cell \u2014 high detail microstructure",
+      "presets": [
+        "~discovery",
+        "~grove"
+      ],
+      "tier": "source"
     },
     {
       "file": "FeatureArt_loek_van_der_Klis_Umerus.webp",
-      "tags": ["art"],
-      "description": "Feature art by Loek van der Klis — Umerus",
-      "presets": ["~grove"]
+      "tags": [
+        "art"
+      ],
+      "description": "Feature art by Loek van der Klis \u2014 Umerus",
+      "presets": [
+        "~grove"
+      ],
+      "tier": "standard"
     },
     {
       "file": "Fig1C-MapTypes.gif",
-      "tags": ["graph", "pattern"],
-      "description": "Map types figure — mathematical/scientific visualization",
-      "presets": ["~discovery"]
+      "tags": [
+        "graph",
+        "pattern"
+      ],
+      "description": "Map types figure \u2014 mathematical/scientific visualization",
+      "presets": [
+        "~discovery"
+      ],
+      "tier": "standard"
     },
     {
       "file": "FoJtO.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Imgur-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Imgur-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "Fzbv1.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Imgur-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Imgur-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "Game3.jpg",
-      "tags": ["pattern"],
-      "description": "Game image — possibly chaos game or Game of Life output",
-      "presets": ["~newhouse", "~discovery"]
+      "tags": [
+        "pattern"
+      ],
+      "description": "Game image \u2014 possibly chaos game or Game of Life output",
+      "presets": [
+        "~newhouse",
+        "~discovery"
+      ],
+      "tier": "standard"
     },
     {
       "file": "GettyImages-1443082896-f704c0aca1aa4edca9f56417e51d0423.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Getty stock image — needs viewing to classify",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Getty stock image \u2014 needs viewing to classify",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "Gospers_glider_gun.gif",
-      "tags": ["pattern"],
-      "description": "Gosper's Glider Gun — Conway's Game of Life emergent pattern",
-      "presets": ["~discovery", "~newhouse"]
+      "tags": [
+        "pattern"
+      ],
+      "description": "Gosper's Glider Gun \u2014 Conway's Game of Life emergent pattern",
+      "presets": [
+        "~discovery",
+        "~newhouse"
+      ],
+      "tier": "standard"
     },
     {
       "file": "Graph_Bounds_2880x1620_Lede-scaled.jpeg",
-      "tags": ["graph"],
-      "description": "Graph bounds visualization — mathematical",
-      "presets": ["~discovery"]
+      "tags": [
+        "graph"
+      ],
+      "description": "Graph bounds visualization \u2014 mathematical",
+      "presets": [
+        "~discovery"
+      ],
+      "tier": "source"
     },
     {
       "file": "Gutenberg.webp",
-      "tags": ["machine", "art"],
-      "description": "Gutenberg printing press — historical technology",
-      "presets": ["~hammer", "~discovery"]
+      "tags": [
+        "machine",
+        "art"
+      ],
+      "description": "Gutenberg printing press \u2014 historical technology",
+      "presets": [
+        "~hammer",
+        "~discovery"
+      ],
+      "tier": "standard"
     },
     {
       "file": "Hubble_ultra_deep_field_high_rez_edit1.jpg",
-      "tags": ["space"],
-      "description": "Hubble Ultra Deep Field — thousands of galaxies, deep space",
-      "presets": ["~grove", "~discovery", "~hammer"]
+      "tags": [
+        "space"
+      ],
+      "description": "Hubble Ultra Deep Field \u2014 thousands of galaxies, deep space",
+      "presets": [
+        "~grove",
+        "~discovery",
+        "~hammer"
+      ],
+      "tier": "source"
     },
     {
       "file": "JanFeb19carousel_0002_game-768x346.jpg",
-      "tags": ["pattern"],
-      "description": "Game visualization — smaller version",
-      "presets": ["~newhouse"]
+      "tags": [
+        "pattern"
+      ],
+      "description": "Game visualization \u2014 smaller version",
+      "presets": [
+        "~newhouse"
+      ],
+      "tier": "standard"
     },
     {
       "file": "JanFeb19carousel_0002_game.jpg",
-      "tags": ["pattern"],
-      "description": "Game visualization — full size",
-      "presets": ["~newhouse"]
+      "tags": [
+        "pattern"
+      ],
+      "description": "Game visualization \u2014 full size",
+      "presets": [
+        "~newhouse"
+      ],
+      "tier": "standard"
     },
     {
       "file": "JettaMkII.jpeg",
-      "tags": ["meta", "machine"],
-      "description": "VW Jetta Mk II — THE Jetta. The tan one with the holes in the floor.",
-      "presets": ["~jetta"]
+      "tags": [
+        "meta",
+        "machine"
+      ],
+      "description": "VW Jetta Mk II \u2014 THE Jetta. The tan one with the holes in the floor.",
+      "presets": [
+        "~jetta"
+      ],
+      "tier": "standard"
     },
     {
       "file": "LcP2u.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Imgur-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Imgur-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "Mandelbrot_set_10000px.png",
-      "tags": ["fractal"],
-      "description": "Mandelbrot set — 10000px high resolution full set",
-      "presets": ["~newhouse", "~discovery", "~grove"]
+      "tags": [
+        "fractal"
+      ],
+      "description": "Mandelbrot set \u2014 10000px high resolution full set",
+      "presets": [
+        "~newhouse",
+        "~discovery",
+        "~grove"
+      ],
+      "tier": "source"
     },
     {
       "file": "NNfCm8LqwFFsu6JqUutkoZ.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Hash filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Hash filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "NotebookkeptRaf00Rafi_0066.webp",
-      "tags": ["art"],
-      "description": "Historical notebook page — Raphael or similar artist's notes",
-      "presets": ["~discovery", "~hammer"]
+      "tags": [
+        "art"
+      ],
+      "description": "Historical notebook page \u2014 Raphael or similar artist's notes",
+      "presets": [
+        "~discovery",
+        "~hammer"
+      ],
+      "tier": "standard"
     },
     {
       "file": "Person+listening+to+music.webp",
-      "tags": ["music", "human"],
+      "tags": [
+        "music",
+        "human"
+      ],
       "description": "Person listening to music",
-      "presets": ["~tower", "~fair"]
+      "presets": [
+        "~tower",
+        "~fair"
+      ],
+      "tier": "standard"
     },
     {
       "file": "Picture-223.webp",
-      "tags": ["needs-visual-review"],
-      "description": "Generic filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Generic filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "SYrQg.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Imgur-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Imgur-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "TaqRq.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Imgur-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Imgur-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "Ultimate_frisbee.width-550.jpg",
-      "tags": ["sport"],
+      "tags": [
+        "sport"
+      ],
       "description": "Ultimate frisbee in action",
-      "presets": ["~beach", "~gthang"]
+      "presets": [
+        "~beach",
+        "~gthang"
+      ],
+      "tier": "standard"
     },
     {
       "file": "Unit_disk_graph.svg.png",
-      "tags": ["graph"],
-      "description": "Unit disk graph — graph theory visualization",
-      "presets": ["~discovery"]
+      "tags": [
+        "graph"
+      ],
+      "description": "Unit disk graph \u2014 graph theory visualization",
+      "presets": [
+        "~discovery"
+      ],
+      "tier": "standard"
     },
     {
       "file": "Westend61-d28bdca860d94fc9b7bfff0f4411ed58.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Westend61 stock image — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Westend61 stock image \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "antique-typewriter-juan-r-velasco.jpg",
-      "tags": ["machine", "art"],
-      "description": "Antique typewriter — Juan R. Velasco photograph",
-      "presets": ["~hammer", "~jetta"]
+      "tags": [
+        "machine",
+        "art"
+      ],
+      "description": "Antique typewriter \u2014 Juan R. Velasco photograph",
+      "presets": [
+        "~hammer",
+        "~jetta"
+      ],
+      "tier": "standard"
     },
     {
       "file": "around the world wav form.jpg",
-      "tags": ["music", "pattern"],
-      "description": "Audio waveform — 'Around the World'",
-      "presets": ["~beach", "~discovery"]
+      "tags": [
+        "music",
+        "pattern"
+      ],
+      "description": "Audio waveform \u2014 'Around the World'",
+      "presets": [
+        "~beach",
+        "~discovery"
+      ],
+      "tier": "standard"
     },
     {
       "file": "biomedical09-1-1300x731.jpg",
-      "tags": ["biology"],
-      "description": "Biomedical imagery — cellular/tissue level",
-      "presets": ["~discovery"]
+      "tags": [
+        "biology"
+      ],
+      "description": "Biomedical imagery \u2014 cellular/tissue level",
+      "presets": [
+        "~discovery"
+      ],
+      "tier": "source"
     },
     {
       "file": "car.webp",
-      "tags": ["needs-visual-review", "machine"],
-      "description": "Car image — needs viewing for specifics",
-      "presets": ["~jetta"]
+      "tags": [
+        "needs-visual-review",
+        "machine"
+      ],
+      "description": "Car image \u2014 needs viewing for specifics",
+      "presets": [
+        "~jetta"
+      ],
+      "tier": "standard"
     },
     {
       "file": "circuit-board-1.jpeg",
-      "tags": ["machine", "pattern"],
-      "description": "Circuit board close-up — traces, components, structured complexity",
-      "presets": ["~discovery", "~newhouse"]
+      "tags": [
+        "machine",
+        "pattern"
+      ],
+      "description": "Circuit board close-up \u2014 traces, components, structured complexity",
+      "presets": [
+        "~discovery",
+        "~newhouse"
+      ],
+      "tier": "standard"
     },
     {
       "file": "closeup-marketing-shot-pile-fried-260nw-2621110591.webp",
-      "tags": ["food"],
-      "description": "Close-up of fried chicken pile — the Kentucky wedding energy",
-      "presets": ["~jetta", "~fair"]
+      "tags": [
+        "food"
+      ],
+      "description": "Close-up of fried chicken pile \u2014 the Kentucky wedding energy",
+      "presets": [
+        "~jetta",
+        "~fair"
+      ],
+      "tier": "standard"
     },
     {
       "file": "colorful-luxe-fractal-spiral-turquoise-brown-orange-matthias-hauser.jpg",
-      "tags": ["fractal"],
-      "description": "Colorful fractal spiral — turquoise/brown/orange, Matthias Hauser",
-      "presets": ["~newhouse", "~grove", "~discovery"]
+      "tags": [
+        "fractal"
+      ],
+      "description": "Colorful fractal spiral \u2014 turquoise/brown/orange, Matthias Hauser",
+      "presets": [
+        "~newhouse",
+        "~grove",
+        "~discovery"
+      ],
+      "tier": "standard"
     },
     {
       "file": "connelly-loop.jpeg",
-      "tags": ["pattern", "meta"],
-      "description": "Connelly loop — mathematical/topological loop structure",
-      "presets": ["~discovery"]
+      "tags": [
+        "pattern",
+        "meta"
+      ],
+      "description": "Connelly loop \u2014 mathematical/topological loop structure",
+      "presets": [
+        "~discovery"
+      ],
+      "tier": "standard"
     },
     {
       "file": "crazy graph.jpg",
-      "tags": ["graph"],
-      "description": "Complex graph visualization — dense connections",
-      "presets": ["~discovery", "~newhouse"]
+      "tags": [
+        "graph"
+      ],
+      "description": "Complex graph visualization \u2014 dense connections",
+      "presets": [
+        "~discovery",
+        "~newhouse"
+      ],
+      "tier": "standard"
     },
     {
       "file": "discretegeometry-1440x842.png",
-      "tags": ["graph", "pattern"],
+      "tags": [
+        "graph",
+        "pattern"
+      ],
       "description": "Discrete geometry visualization",
-      "presets": ["~discovery"]
+      "presets": [
+        "~discovery"
+      ],
+      "tier": "source"
     },
     {
       "file": "dm.png.webp",
-      "tags": ["meta"],
-      "description": "DM image — project-related",
-      "presets": []
+      "tags": [
+        "meta"
+      ],
+      "description": "DM image \u2014 project-related",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "download (1).jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Generic download — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Generic download \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "ecc40151b0dc526ee0c7d4e2ffb04999.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Hash filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Hash filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2ZyYWN0YWwtdXBkYXRlMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==.webp",
-      "tags": ["fractal"],
-      "description": "Fractal update image — base64-encoded source URL from HowStuffWorks",
-      "presets": ["~newhouse", "~discovery"]
+      "tags": [
+        "fractal"
+      ],
+      "description": "Fractal update image \u2014 base64-encoded source URL from HowStuffWorks",
+      "presets": [
+        "~newhouse",
+        "~discovery"
+      ],
+      "tier": "standard"
     },
     {
       "file": "finp3z0ah2zc1.png",
-      "tags": ["needs-visual-review"],
-      "description": "Reddit-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Reddit-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "flower.gif",
-      "tags": ["nature", "pattern"],
-      "description": "Flower animation — natural pattern, growth",
-      "presets": ["~autumn", "~grove"]
+      "tags": [
+        "nature",
+        "pattern"
+      ],
+      "description": "Flower animation \u2014 natural pattern, growth",
+      "presets": [
+        "~autumn",
+        "~grove"
+      ],
+      "tier": "standard"
     },
     {
       "file": "fractal.webp",
-      "tags": ["fractal"],
+      "tags": [
+        "fractal"
+      ],
       "description": "Generic fractal image",
-      "presets": ["~newhouse", "~discovery", "~grove"]
+      "presets": [
+        "~newhouse",
+        "~discovery",
+        "~grove"
+      ],
+      "tier": "standard"
     },
     {
       "file": "free-photo-of-serene-sunrise-camping-near-misty-forest.jpeg",
-      "tags": ["nature"],
-      "description": "Serene sunrise camping near misty forest — THE camping preset image",
-      "presets": ["~camping"]
+      "tags": [
+        "nature"
+      ],
+      "description": "Serene sunrise camping near misty forest \u2014 THE camping preset image",
+      "presets": [
+        "~camping"
+      ],
+      "tier": "standard"
     },
     {
       "file": "game2baseball.jpg",
-      "tags": ["sport"],
+      "tags": [
+        "sport"
+      ],
       "description": "Baseball game image",
-      "presets": ["~beach"]
+      "presets": [
+        "~beach"
+      ],
+      "tier": "standard"
     },
     {
       "file": "houston-newborn-photographer-1220-02.webp",
-      "tags": ["human"],
-      "description": "Newborn baby — photographer portrait",
-      "presets": ["~tower", "~hammer"]
+      "tags": [
+        "human"
+      ],
+      "description": "Newborn baby \u2014 photographer portrait",
+      "presets": [
+        "~tower",
+        "~hammer"
+      ],
+      "tier": "standard"
     },
     {
       "file": "hq720.jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "YouTube thumbnail size — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "YouTube thumbnail size \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "hq720.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "YouTube thumbnail size — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "YouTube thumbnail size \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "hq720323.jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "YouTube thumbnail size — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "YouTube thumbnail size \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "i and love and you.png",
-      "tags": ["music"],
-      "description": "I and Love and You — The Avett Brothers album/song art",
-      "presets": ["~tower", "~autumn"]
+      "tags": [
+        "music"
+      ],
+      "description": "I and Love and You \u2014 The Avett Brothers album/song art",
+      "presets": [
+        "~tower",
+        "~autumn"
+      ],
+      "tier": "standard"
     },
     {
       "file": "images (1).jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Generic download — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Generic download \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "images (2).jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Generic download — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Generic download \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "images (3).jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Generic download — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Generic download \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "images (4).jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Generic download — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Generic download \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "images (5).jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Generic download — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Generic download \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "images.jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Generic download — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Generic download \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "images.png",
-      "tags": ["needs-visual-review"],
-      "description": "Generic download — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Generic download \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "k0Jej.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Imgur-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Imgur-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "l21 screen.jpg",
-      "tags": ["meta"],
-      "description": "L21 system screenshot — Loop 2.1 interface",
-      "presets": []
+      "tags": [
+        "meta"
+      ],
+      "description": "L21 system screenshot \u2014 Loop 2.1 interface",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "listening_to_music_while_studying.webp",
-      "tags": ["music", "human"],
+      "tags": [
+        "music",
+        "human"
+      ],
       "description": "Person listening to music while studying",
-      "presets": ["~tower", "~camping"]
+      "presets": [
+        "~tower",
+        "~camping"
+      ],
+      "tier": "standard"
     },
     {
       "file": "loop 2.0 screen.jpg",
-      "tags": ["meta"],
-      "description": "Loop 2.0 system screenshot — predecessor interface",
-      "presets": []
+      "tags": [
+        "meta"
+      ],
+      "description": "Loop 2.0 system screenshot \u2014 predecessor interface",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "mandelbrot explanation graphic.jpg",
-      "tags": ["fractal", "graph"],
-      "description": "Mandelbrot set explanation graphic — educational diagram",
-      "presets": ["~discovery", "~newhouse"]
+      "tags": [
+        "fractal",
+        "graph"
+      ],
+      "description": "Mandelbrot set explanation graphic \u2014 educational diagram",
+      "presets": [
+        "~discovery",
+        "~newhouse"
+      ],
+      "tier": "source"
     },
     {
       "file": "media_1a3f2c60722b2190df9ac48e76031a17bc863edef.jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Media hash filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Media hash filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "momnewborn-2.webp",
-      "tags": ["human"],
+      "tags": [
+        "human"
+      ],
       "description": "Mother with newborn baby",
-      "presets": ["~tower", "~hammer"]
+      "presets": [
+        "~tower",
+        "~hammer"
+      ],
+      "tier": "standard"
     },
     {
       "file": "newborn-baby-care-2.webp",
-      "tags": ["human"],
+      "tags": [
+        "human"
+      ],
       "description": "Newborn baby care",
-      "presets": ["~tower"]
+      "presets": [
+        "~tower"
+      ],
+      "tier": "standard"
     },
     {
       "file": "ooyyzvquvjf81.jpeg",
-      "tags": ["needs-visual-review"],
-      "description": "Reddit-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Reddit-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "psychedelic-fractal-970296.webp",
-      "tags": ["fractal"],
-      "description": "Psychedelic fractal — vivid colors, deep zoom",
-      "presets": ["~newhouse", "~grove", "~gthang"]
+      "tags": [
+        "fractal"
+      ],
+      "description": "Psychedelic fractal \u2014 vivid colors, deep zoom",
+      "presets": [
+        "~newhouse",
+        "~grove",
+        "~gthang"
+      ],
+      "tier": "standard"
     },
     {
       "file": "rCxwT.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Imgur-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Imgur-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "s-l1200.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "eBay-style filename — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "eBay-style filename \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "shutterstock_2464129821.jpg",
-      "tags": ["needs-visual-review"],
-      "description": "Shutterstock image — needs viewing",
-      "presets": []
+      "tags": [
+        "needs-visual-review"
+      ],
+      "description": "Shutterstock image \u2014 needs viewing",
+      "presets": [],
+      "tier": "standard"
     },
     {
       "file": "sound board.jpeg",
-      "tags": ["music", "machine"],
-      "description": "Sound mixing board — audio production",
-      "presets": ["~beach", "~discovery"]
+      "tags": [
+        "music",
+        "machine"
+      ],
+      "description": "Sound mixing board \u2014 audio production",
+      "presets": [
+        "~beach",
+        "~discovery"
+      ],
+      "tier": "standard"
     },
     {
       "file": "staying-warm-and-safe-during-the-holidays_1200x600.jpg",
-      "tags": ["human", "nature"],
-      "description": "Warm holiday scene — comfort, safety, seasonal",
-      "presets": ["~camping", "~tower"]
+      "tags": [
+        "human",
+        "nature"
+      ],
+      "description": "Warm holiday scene \u2014 comfort, safety, seasonal",
+      "presets": [
+        "~camping",
+        "~tower"
+      ],
+      "tier": "standard"
     },
     {
       "file": "sterling-bunnell-1903-academy-revillagigedo-islands-expedition-soccorro-parrot-003-copy.jpg",
-      "tags": ["nature"],
-      "description": "Socorro parrot — 1903 expedition photograph, Sterling Bunnell",
-      "presets": ["~grove"]
+      "tags": [
+        "nature"
+      ],
+      "description": "Socorro parrot \u2014 1903 expedition photograph, Sterling Bunnell",
+      "presets": [
+        "~grove"
+      ],
+      "tier": "standard"
     },
     {
-      "file": "FWW(C)/",
-      "tags": ["fwwc"],
-      "description": "FWW(C) subfolder — Fun, Whimsy, Weird, and Chaos images",
-      "presets": ["~newhouse"],
-      "is_folder": true,
-      "note": "Contents need separate inventory"
+      "file": "FWW(C)/chaos.jpg",
+      "tags": [
+        "fwwc",
+        "chaos",
+        "pattern"
+      ],
+      "description": "Luminous particle trails tangling across dark field. Bokeh nodes. Energy without order. What Wes sounds like if you could see it.",
+      "presets": [
+        "~newhouse",
+        "~grove",
+        "~hammer"
+      ],
+      "tier": "standard"
+    },
+    {
+      "file": "FWW(C)/weird.jpg",
+      "tags": [
+        "fwwc",
+        "human"
+      ],
+      "description": "Man in watermelon helmet with goggle eyes and green cape. THE watermelon hat. Load-bearing absurdity.",
+      "presets": [
+        "~newhouse"
+      ],
+      "tier": "standard"
+    },
+    {
+      "file": "FWW(C)/whimsy.jpeg",
+      "tags": [
+        "fwwc",
+        "art"
+      ],
+      "description": "Pastel whimsy-maxxing era. Crowned character, flying unicorn, clouds with faces. Pure anti-serious signal.",
+      "presets": [
+        "~newhouse",
+        "~beach"
+      ],
+      "tier": "standard"
+    },
+    {
+      "file": "FWW(C)/FUN.jpg",
+      "tags": [
+        "fwwc",
+        "human",
+        "sport"
+      ],
+      "description": "Roller coaster riders, hands up, ocean and palms behind. The ~tower amusement park ride photographed from the seat.",
+      "presets": [
+        "~tower",
+        "~newhouse",
+        "~beach"
+      ],
+      "tier": "standard"
     }
   ],
   "stats": {
-    "total_images": 88,
-    "classified": 52,
-    "needs_visual_review": 36,
-    "categories_used": 15,
+    "total_images": 102,
+    "classified": 54,
+    "needs_visual_review": 48,
+    "source_tier": 10,
+    "standard_tier": 92,
+    "categories_used": 16,
     "presets_with_images": 11
+  },
+  "image_spec": {
+    "standard": {
+      "long_edge_px": 1024,
+      "format": "JPEG",
+      "quality": 85
+    },
+    "source": {
+      "long_edge_px": 1536,
+      "format": "JPEG",
+      "quality": 90
+    },
+    "note": "Source-tier images preserve detail for The Slice exploration. Standard-tier loads gestalt/emotional channels."
   }
 }
